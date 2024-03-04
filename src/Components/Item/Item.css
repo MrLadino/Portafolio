@@ -1,0 +1,13 @@
+a{
+    color: #c1ff95;
+    text-decoration: none;
+    margin: 10px;
+    font-size: 30px;
+    text-shadow: 2px 2px 4px #adf878;
+}
+
+li{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}

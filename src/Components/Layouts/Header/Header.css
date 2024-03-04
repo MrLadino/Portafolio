@@ -1,0 +1,12 @@
+header{
+  position: fixed;
+    background-color: #39a900;
+    width: 20vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  
